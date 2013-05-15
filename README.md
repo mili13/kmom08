@@ -23,7 +23,7 @@ För att skapa ett eget ramverk som Winnie är det bara att följa följande ste
 Installation
 -------------
 
-1. Clona Winnie från github: <code>https://github.com/mili13/kmom08/lydia</code>
+1. Clona Winnie från github: <code>https://github.com/mili13/kmom08.git</code>
 2. Gör site/data skrivbar: <code>cd lydia; chmod 777 site/data</code>
 (Både mappen och filen i mappen måste vara chmod 777)
 3. Öpnna .htaccess filen, och ändra länkningen till:
