@@ -27,8 +27,8 @@ Installation
 2. Gör site/data skrivbar: <code>cd lydia; chmod 777 site/data</code>
 (Både mappen och filen i mappen måste vara chmod 777)
 3. Öpnna .htaccess filen, och ändra länkningen till:
- <code>RewriteBase /~mili13/phpmvc/kmom08/lydia/</code>
-4.Peka din webbläsare till din Winnie och följ instruktionerna.
+ <code>RewriteBase /~mili13/kmom08/</code>
+4. Peka din webbläsare till din Winnie och följ instruktionerna.
 <code>module/install</code>
 
 Ändra logga, titel, footer och navigations menyn
